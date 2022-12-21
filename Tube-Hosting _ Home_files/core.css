@@ -48189,3 +48189,24 @@ button:visited,button.active,button:hover,button:focus,input:visited,input.activ
         transform: scale(1);
     }
 }
+
+.divbotlegal {
+    font-size: 15px;
+    font-weight: 200;
+    padding-bottom: 15px;
+}
+.legalcap {
+    padding-bottom: 25px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+}
+html{
+    overflow-x: hidden;
+    }
+
+hr {
+    color: white;
+    background-color: white;
+    margin-top: 5px;
+}
